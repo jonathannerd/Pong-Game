@@ -1,0 +1,1 @@
+My Pong game is a classic two player arcade game where each player controls a paddle to bounce a ball back and forth. The ball speeds up and changes angle depending on where it hits the paddle, and a point is scored when an opponent misses. The game tracks scores and continues until a player reaches the winning score.
